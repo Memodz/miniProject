@@ -168,7 +168,7 @@ Go to your GitHub repo → **Settings → Secrets and variables → Actions** an
 ## 👤 Author
 
 **Phoungpagaloungprom**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/Memodz)
 
 ---
 
